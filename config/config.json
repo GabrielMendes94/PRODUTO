@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "produto",
+    "host": "3333",
+    "dialect": "mysql"
+  }
+}
